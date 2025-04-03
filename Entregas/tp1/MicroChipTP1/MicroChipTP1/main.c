@@ -1,5 +1,5 @@
 #include <avr/io.h>
-#define F_CPU 1000000UL // O 16000000UL segun la frecuencia en Proteus
+#define F_CPU 1000000UL 
 #include <util/delay.h>
 
 const uint8_t sec_1[] = {
